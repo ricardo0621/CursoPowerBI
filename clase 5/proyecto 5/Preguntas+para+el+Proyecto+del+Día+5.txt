@@ -1,0 +1,10 @@
+Preguntas para el Proyecto del Día 5
+------------------------------------
+
+1. ¿Por cuántos trimestres la sucursal de "Brisamonte" logró una facturación mayor que la de "Pueblomonte"? NINGUNO
+
+2. En una acumulación anual, ¿qué sucursal termina con la mayor facturación durante el 2026, y en qué puesto había comenzado en 2024?
+r= EN EL 2026 SUCURSAL MONTEVERDE CON $649414 MILLONES Y EN EL 2024 EMPEZO EN EL 2GUNDO MEJOR
+
+3. ¿Cuál fue la facturación de la sucursal que más unidades vendió, de la tercera región, en cantidad de unidades vendidas, entre el 25/5/24 y el 31/8/24?
+BRISAMONTE REGINON DE SUR CON 234147

@@ -1,0 +1,33 @@
+PREGUNTA 1
+----------
+¿Cuál fue el mes con la mayor cantidad de ventas en unidades de productos? ¿Y cuál fue el mes con la menor cantidad?
+mayor cantidad mayo con 427 y el menor es  es septiembre  147
+
+PREGUNTA 2
+----------
+¿Cuál fue el mes con la mayor facturación? ¿Y el de menor facturación?
+mayor facturación mayo 211040 y el menor junio 66250
+
+PREGUNTA 3
+----------
+¿Cuáles son los 3 productos con la mayor cantidad de unidades vendidas durante todo el periodo?
+1.bicicleta montaña 233, 2.gafas de sol 220, 3.telefono inteligente 214
+
+
+PREGUNTA 4
+----------
+En el mes de julio, ¿cuántas unidades de auriculares inalámbricos se vendieron? ¿Qué porcentaje representan del total de unidades vendidas de todos los productos en ese mes?
+en el mes de julio se vendieron 52 unidades de auriculares, 13,16%
+
+PREGUNTA 5
+----------
+¿Cómo estuvieron compuestas las ventas de productos de belleza y cuidado personal en el mes de julio? ¿Y en todo el periodo analizado?
+en el mes de julio 14unidades que son 43.75% crema hidratante (valor 560) y 18unid 56,25% perfume de mujer (valor 1440) total ventas mes julio 2000
+en todo el periodo fueron 273 unidades por valor de 19550, se evidencia que el produto mas vendido es el secador de cabello con 88 unidades que son el 32,23% y se vendieron mas en el mes de junio por valor de 3700
+
+PREGUNTA 6
+----------
+¿Qué tendencia muestra la facturación de los productos de "Hogar y jardín" durante todo el periodo analizado?
+
+se evidencia que la categoría hogar y jardín tiene una tendencia bajista ósea disminuyo la cual tuvo un tope máximo en el mes de mayo con un valor de 19200 pero
+en el ultimo mes que es septiembre su ultima venta con valor de 6480 y se evidencia que el producto de esa categoría con mas ventas es la aspiradora robot

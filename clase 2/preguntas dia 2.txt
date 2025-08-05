@@ -1,0 +1,5 @@
+Pregunta 1: ¿Dónde conviene instalar el centro de distribución? R= donde mas se vende es en cordoba
+
+Pregunta 2 : ¿Cuál es el producto con mayor cantidad de unidades vendidas? R= mermelada de frambuesa
+
+Pregunta 3: ¿En qué mes se produjo la mayor cantidad de ventas en unidades? R= diciembre

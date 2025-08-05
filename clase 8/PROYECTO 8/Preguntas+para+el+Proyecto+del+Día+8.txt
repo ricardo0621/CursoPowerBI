@@ -1,0 +1,9 @@
+Preguntas para el Proyecto del Día 8
+------------------------------------
+
+1. ¿Qué código tiene asignado Tomás Burgos Gutiérrez? tbg1030
+
+2. ¿Qué código tiene asignado César Reyes Villanueva? crv1016
+
+3. Al día 31/12/2023, ¿qué antigüedad (expresada en años) tiene Laura Cordero Martínez? Ayúdate con la columna auxiliar.
+r= 3.24

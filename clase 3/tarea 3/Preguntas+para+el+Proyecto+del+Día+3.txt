@@ -1,0 +1,28 @@
+Preguntas para el Proyecto del Día 3
+------------------------------------
+(Responder en el cuestionario final del Día 3)
+
+1. ¿Qué dos líneas de producto muestran la misma estacionalidad?
+	a. Paquete de granos de café molido, y Frasco de sal de mesa
+	b. Tarro de mayonesa y Paquete de especias mixtas
+	c. Lata de frijoles en conserva y Atún enlatado, en aceite de oliva
+	d. Botella de refresco de cola, y tarro de mayonesa
+	e. Paquete de granos de café molido, y Caja de caldo de pollo r=ESTA ES LA CORRECTA YA QUE EL COMPORTAMIENTO ES SIMILAR EN EL PERIODO DE TIEMPO
+r= SE REALIZA CON UN SEGMENTADOR EN LA PAGINA PRODUCTOS
+
+2. ¿Cómo se comporta la estacionalidad del producto "Botella de agua mineral"?r= SE HA COMPORTADO EN LA BAJA HASTA MES DE JULIO  CRECIENTE LA VENTA DESDE EL 2024 HASTA EL 2026 CON UN TOTAL DE UNIDADES 2053051, LA REGION QUE MAS VENDE ES LA DEL CENTRO- MONTEVERDE
+
+3. ¿Cómo se comporta la tendencia del producto "Lata de maíz en conserva"? r= DECRECIENTE EN EL AÑO 2026 CON 110580 UNIDADES A COMPARACION DEL 2024 CON 118090 
+
+4. ¿Cuál es la región que acumula menor cantidad de unidades vendidas a lo largo de todo el periodo? r= REGION ESTE, SUCURSAL DE RIOENCANTO
+
+5. ¿Qué región/es muestra/n una tendencia negativa en ventas en el periodo analizado?r= LA REGON DEL ESTE
+
+6. ¿Cuál es la tendencia de desempeño de la sucursal Cieloazul, comparada con las demás sucursales de la región Sur, a lo largo de todo el período?
+r= ES LA DE MENOR VENTAS Y UN CRECIMIENTO MENOS EXPONENCIAL QUE LA SUCURSAL DE BRISAMONTE Y VALLESOL
+
+7. ¿Cuál ha sido el promedio de ventas (en unidades) para la Región Sur en el tercer trimestre a lo largo de todo el periodo analizado?r= PROMEDIO DE  1729,63
+
+8. ¿Cuál fue el mayor mes de ventas, para el tercer producto más vendido?
+
+BOTELLA DE KEPTCHU EN EL MES DE NOV 2026 EN LA REGION CENTRO SUCURSAL MONTEVERDE
